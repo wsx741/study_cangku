@@ -36,7 +36,7 @@ void OSB::update(double te, double hu){
 void OSB::disp(){
     cout << "hu=" << hu << endl;
 }
-
+//观察者模式
 
 
 
